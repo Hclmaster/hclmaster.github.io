@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://hclmaster.github.io/authors/</link>
-      <atom:link href="https://hclmaster.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Chenghong Lin | Academic</title>
+    <link>https://hclmaster.github.io/author/chenghong-lin/</link>
+      <atom:link href="https://hclmaster.github.io/author/chenghong-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenghong Lin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
       <url>https://hclmaster.github.io/images/icon_hu6d2b68a648c33a59c7ca926c33a416fa_6429_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://hclmaster.github.io/authors/</link>
+      <title>Chenghong Lin</title>
+      <link>https://hclmaster.github.io/author/chenghong-lin/</link>
     </image>
     
   </channel>
